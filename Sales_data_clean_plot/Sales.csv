@@ -1,0 +1,12 @@
+Date,Customer ID,Product Category,Sales Amount
+2024-01-01,101,Electronics,500
+2024-01-02,102,Clothing,300
+2024-01-03,103,Electronics,600
+2024-01-04,104,Furniture,800
+2024-01-05,105,Electronics,450
+2024-01-00,106,Clothing,200
+2024-01-07,107,Electronics,NaN
+2024-01-08,108,Furniture,700
+2024-01-08,108,Furniture,700
+2024-01-09,109,Clothing,-100
+2024-01-10,110,Electronics,550
