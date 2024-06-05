@@ -50,6 +50,7 @@ The project requires the following Python libraries:
 
 - pandas
 - matplotlib
+- numpy
 
 You can install the dependencies using pip:
 
