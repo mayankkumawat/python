@@ -9,7 +9,7 @@ This project focuses on analyzing the house prices in Bengaluru using a dataset 
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Dependencies](#dependencies)
 - [License](#license)
 
 ## Introduction
@@ -36,9 +36,28 @@ The project consists of the following files:
 - `Houses_data_clean_analysis.ipynb`: Jupyter Notebook containing the analysis code
 - `Bengaluru_House_Data.csv`: Dataset file
 
-## Installation
+## Usage
 
-To run this project, you need to have Python and Jupyter Notebook installed on your system. You can install the required Python libraries using the following command:
+To run the analysis:
 
-```bash
-pip install pandas numpy matplotlib
+1. Clone the repository to your local machine.
+2. Open the `Houses_data_clean_analysis.ipynb` notebook using Jupyter Notebook or JupyterLab.
+3. Execute the cells in the notebook to load the data, perform analysis, and generate visualizations.
+
+## Dependencies
+
+The project requires the following Python libraries:
+
+- pandas
+- matplotlib
+
+You can install the dependencies using pip:
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Author
+
+Mayank Kumawat (https://www.linkedin.com/in/mayankkumawat4u/)
